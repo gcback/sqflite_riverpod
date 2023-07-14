@@ -1,4 +1,4 @@
-# sqlite_test
+# sqflite_test
 
 ### 플러터에서 sqflite, riverpod를 통해 CRUD를 해보는 테스트앱입니다.
 
