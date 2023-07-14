@@ -16,13 +16,3 @@ sqflite 뿐만 아니라 riverpod의 AsyncNotifire를 익혀볼 수 있습니다
   영상의 모든 CRUD API들은 비동기 API이기 때문에 Future로 반환되는 API 결과값들은 FutureBuilder를 이용해야 합니다.
   따라서 API를 통해 발생하는 결과값은 Riverpod의 비동기상태로 관리하도록 수정하였습니다.
   즉, AsyncNotifier는 상태값들과 CRUD API들 구성하였습니다.
-
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
